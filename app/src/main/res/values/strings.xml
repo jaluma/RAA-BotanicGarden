@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jardin Botanico</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_regadera">Regadera</string>
+    <string name="title_qr">Código QR</string>
+    <string name="bienvenida_string">Bienvenido!</string>
+    <string name="about">Aplicación desarrolada por \nJavier Martínez Álvarez - UO258092</string>
+    <string name="title_about">Acerca de</string>
+    <string name="github"><a href='http://github.com/jaluma'>Github - Jaluma</a></string>
+    <string name="girar">Gira el dispositivo para animar la foto</string>
+    <string name="error_camara">Error procesando la camara</string>
+    <string name="info_qr">Enfoque al código QR a leer</string>
+</resources>
